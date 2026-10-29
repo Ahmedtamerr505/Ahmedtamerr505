@@ -71,10 +71,10 @@ public class Ahmed : Developer
 
 <div align="center">
 
-<a href="https://github.com/Ahmedtamerr505/YOUR-REPO-1">
+<a href="https://github.com/Ahmedtamerr505/Crop-Recommendation_ml">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmedtamerr505&repo=https://github.com/Ahmedtamerr505/Crop-Recommendation_ml&theme=radical&hide_border=true" alt="Project 1" />
 </a>
-<a href="https://github.com/Ahmedtamerr505/YOUR-REPO-2">
+<a href="https://github.com/Ahmedtamerr505/E-Commerce-DEPI">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmedtamerr505&repo=https://github.com/Ahmedtamerr505/E-Commerce-DEPI&theme=radical&hide_border=true" alt="Project 2" />
 </a>
 
